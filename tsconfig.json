@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES2015",
+        "module": "None",
+        "lib": [],
+        "types": [],
+        "rootDir": "./src",
+        "outFile": "./dist/PhotoshopMetaprojects.jsx",
+        "strict": true
+    }
+}
