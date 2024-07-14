@@ -1,7 +1,7 @@
 {
     "name": "photoshop-metaprojects",
     "version": "1.0.0",
-    "description": "",
+    "description": "Create a single Photoshop project for all your asset exports.",
     "main": "index.js",
     "scripts": {
         "dev": "tsc -w",
